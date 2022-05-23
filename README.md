@@ -2,6 +2,6 @@ Um simples cadastro de produtos desenvolvido com Node.Js, Express, Sequelize e P
 
 Usar a porta 3030
 
-Comando Para execução do Server:
+Comando para a execução do Server:
 
 npm run dev
